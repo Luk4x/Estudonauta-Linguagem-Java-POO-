@@ -1,5 +1,5 @@
 package com.mycompany.ex01;
-public class estudo {
+public class Estudo {
     String curso;
     String site;
     String eventos;

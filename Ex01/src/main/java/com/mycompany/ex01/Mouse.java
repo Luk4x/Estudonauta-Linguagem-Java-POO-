@@ -1,5 +1,5 @@
 package com.mycompany.ex01;
-public class mouse {
+public class Mouse {
     String modelo;
     String cor;
     boolean rgb;

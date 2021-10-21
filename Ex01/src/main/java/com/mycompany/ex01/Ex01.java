@@ -5,7 +5,7 @@ objeto conceitual) */
 public class Ex01 {
     public static void main(String[] args) {
         // objeto concreto
-        mouse x5 = new mouse();
+        Mouse x5 = new Mouse();
         x5.modelo = "Cougar Minos x5";
         x5.cor = "Preto";
         x5.maxDpi = 12000;
@@ -25,7 +25,7 @@ public class Ex01 {
         System.out.println("DPI ajustado para " + osudpi + " com sucesso.\n\n\n");
         
         // objeto conceitual
-        estudo rotina = new estudo();
+        Estudo rotina = new Estudo();
         rotina.curso = "Java e C#";
         rotina.site = "estudonauta.com";
         rotina.estudando = true;
