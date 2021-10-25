@@ -8,7 +8,13 @@ public class Aula07 {
         l[3] = new Lutador("Dead Code", "Austrália", 28, 1.93f, 81.6f, 13, 0, 2);
         l[4] = new Lutador("UFOCobol", "Brasil", 37, 1.70f, 119.3f, 5, 4, 3);
         l[5] = new Lutador("Nerdaart", "EUA", 30, 1.81f, 105.7f, 12, 2, 4);
-        l[0].status();
         l[3].status();
+        l[2].status();
+        
+        Luta lU1 = new Luta();
+        lU1.marcarLuta(l[3], l[2]);
+        lU1.lutar();
+        l[3].status();
+        l[2].status();
     }
 }
