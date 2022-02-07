@@ -1,2 +1,2 @@
-# Estudonauta-Linguagem-Java-POO-
-Exercícios feitos por mim, propostos no curso de Java (POO) do Estudonauta.com. Usando o NetBeans.
+# Estudonauta-Java(OOP)-Language
+Exercises made by me, proposed in the Java course (OOP) of Estudonauta.com, Using NetBeans.
